@@ -7,84 +7,65 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
-
-
+title: Johan Esteban Cañas Ossa — Portfolio
 
 # Hero Section
-name: John Doe
-headline: headline message
-description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+name: Johan Esteban Cañas Ossa
+headline: Software Engineer · Backend Developer
+description: >-
+  Experienced Backend Developer with 5+ years designing, building, and deploying
+  high-performance software. Currently at EPAM Systems, delivering scalable
+  enterprise applications for global clients—previously Software Engineer at
+  Mercado Libre (Places / logistics). Based in Colombia. Master in Software
+  Architecture (in progress), B.S. Software Engineering.
 
-# Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
-
 # Link your resume
-# You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: /assets/resume/resume.pdf
 
+external-links:
+  linkedin: johan-esteban-cañas-ossa-51ba87135
+  github: joescaos
 
-# Set up external links - this will show up as small icons next to your name.
-
-external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
-  
-
-# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Backend Development
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+    - Java
+    - Spring Boot
+    - Micronaut
+    - Hibernate
+    - Python
+    - RESTful APIs
+    - gRPC
+  - category: Cloud & Platforms
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+    - AWS
+    - Oracle Cloud Infrastructure (OCI)
+    - Salesforce
+  - category: Data & Messaging
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - SQL
+    - NoSQL
+    - Kafka
+    - Message brokers
+  - category: Practices & Tools
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+    - Analytical thinking
+    - Problem solving
+    - Agile / JIRA
+    - Prompt Engineering
+  - category: Certifications
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - AWS Certified AI Practitioner
+    - AWS Certified Developer Associate
+    - Generative AI Leader (Google)
+    - OCI Foundations Associate
+    - OCI Data Foundations Associate
+    - OCI AI Foundations Associate
+    - Django for Everybody Specialization
+    - Python for Everybody Specialization
+    - Machine Learning for All
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
