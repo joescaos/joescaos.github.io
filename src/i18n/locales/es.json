@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "education": "Educación",
+    "skills": "Habilidades",
+    "certifications": "Certificaciones",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "title": "Ingeniero de Software",
+    "subtitle": "Desarrollador Backend",
+    "location": "Colombia",
+    "cta_contact": "Contáctame",
+    "cta_resume": "Descargar CV"
+  },
+  "about": {
+    "heading": "Sobre Mí",
+    "summary": "Desarrollador Backend con más de 5 años de experiencia diseñando, desarrollando y desplegando soluciones de software de alto rendimiento. Actualmente en EPAM Systems, entregando aplicaciones empresariales escalables para clientes globales en industrias como Ciencias de la Vida y Salud. Apasionado por la arquitectura limpia, los sistemas cloud-native y el uso de IA para construir software más inteligente."
+  },
+  "experience": {
+    "heading": "Experiencia",
+    "present": "Presente",
+    "epam": {
+      "role": "Ingeniero de Software",
+      "bullet_1": "Ciencias de la Vida: integración con Salesforce conectando servicios internos para gestión de órdenes de pruebas de detección de cáncer en sangre (Java, Spring Boot, gRPC, Kafka, AWS).",
+      "bullet_2": "Oracle Health: Ingeniero Backend construyendo la API del Portal de Pacientes usando Java (Micronaut) e Oracle Cloud Infrastructure.",
+      "bullet_3": "Participación en el desarrollo de APIs para la plataforma del Portal de Pacientes.",
+      "bullet_4": "Implementación de integraciones con servicios de IA de OCI."
+    },
+    "mercadolibre": {
+      "role": "Ingeniero de Software",
+      "bullet_1": "Equipo Places: soluciones técnicas para la conexión con la red logística de Mercado Libre (puntos de entrega y retiro).",
+      "bullet_2": "Diseño y desarrollo de sistemas backend escalables de alto rendimiento con Java, Spring Boot e Hibernate.",
+      "bullet_3": "Implementación de APIs RESTful para acceso y manipulación de datos en servicios logísticos.",
+      "bullet_4": "Colaboración con equipos multifuncionales mediante metodologías ágiles y JIRA.",
+      "bullet_5": "Desarrollo de soluciones logísticas sincrónicas y asincrónicas."
+    },
+    "ejercito": {
+      "role": "Suboficial del Ejército — Contrainteligencia",
+      "bullet_1": "Investigaciones sobre amenazas a la seguridad militar, incluyendo espionaje y sabotaje.",
+      "bullet_2": "Desarrollo y mantenimiento de relaciones con fuentes e informantes de inteligencia.",
+      "bullet_3": "Estudios de seguridad del personal con acceso a información y lugares sensibles.",
+      "bullet_4": "Evaluaciones de riesgo y asesoría en mitigación de amenazas a comandantes militares."
+    }
+  },
+  "education": {
+    "heading": "Educación",
+    "masters": {
+      "degree": "Maestría en Arquitectura de Software"
+    },
+    "bachelors": {
+      "degree": "Ingeniería de Software"
+    }
+  },
+  "skills": {
+    "heading": "Habilidades",
+    "category_backend": "Backend",
+    "category_cloud": "Cloud",
+    "category_data": "Datos y Mensajería",
+    "category_tools": "Herramientas",
+    "category_practices": "Prácticas"
+  },
+  "certifications": {
+    "heading": "Certificaciones",
+    "aws_ai": "AWS Certified AI Practitioner",
+    "aws_dev": "AWS Certified Developer Associate",
+    "google_genai": "Generative AI Leader",
+    "oci_foundations": "OCI Foundations Associate",
+    "oci_data": "OCI Data Foundations Associate",
+    "oci_ai": "OCI AI Foundations Associate",
+    "django": "Django for Everybody Specialization",
+    "java_android": "Java for Android",
+    "python": "Python For Everyone Specialization",
+    "ml": "Machine Learning for All"
+  },
+  "projects": {
+    "heading": "Proyectos",
+    "cancerguard": {
+      "name": "CancerGuard",
+      "description": "Integración con Salesforce que conecta servicios internos para gestión integral de órdenes de pruebas diagnósticas de cáncer, desde puntos de recolección hasta laboratorios."
+    },
+    "sellers_comm": {
+      "name": "Sellers Communications",
+      "description": "Aplicación que informa a los usuarios de logística cross-docking y drop-off sobre situaciones en los puntos de envío donde los vendedores de Mercado Libre despachan sus productos."
+    },
+    "gmv_api": {
+      "name": "GMV API — Antifraude",
+      "description": "Sistema de alertas al equipo de transportes cuando una instalación supera su umbral de dinero, para programar la recolección de paquetes y evitar pérdidas de productos de alto valor."
+    },
+    "schedule_events": {
+      "name": "Schedule Events API",
+      "description": "Permitió a los operadores de puntos de envío programar cierres por vacaciones o razones personales, integrado con Sellers Communications para notificar a vendedores y reducir el impacto en NPS."
+    },
+    "delivery_cart": {
+      "name": "Carrito de Punto de Entrega",
+      "description": "Habilitó a compradores de Mercado Libre unificar compras de diferentes vendedores en un carrito y recibirlas en un único punto de entrega, ahorrando costos de envío."
+    }
+  },
+  "languages": {
+    "heading": "Idiomas",
+    "spanish": "Español",
+    "english": "Inglés",
+    "portuguese": "Portugués",
+    "italian": "Italiano",
+    "level_native": "Nativo",
+    "level_advanced": "Avanzado",
+    "level_intermediate": "Intermedio",
+    "level_elementary": "Elemental"
+  },
+  "contact": {
+    "heading": "Contáctame",
+    "subheading": "Actualmente estoy abierto a nuevas oportunidades. ¡No dudes en escribirme!",
+    "email_label": "Correo",
+    "phone_label": "Teléfono",
+    "location_label": "Ubicación",
+    "linkedin_label": "LinkedIn",
+    "github_label": "GitHub"
+  },
+  "footer": {
+    "built_with": "Construido con React + Vite",
+    "rights": "Todos los derechos reservados."
+  }
+}

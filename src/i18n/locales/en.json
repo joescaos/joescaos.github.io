@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "certifications": "Certifications",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "title": "Software Engineer",
+    "subtitle": "Backend Developer",
+    "location": "Colombia",
+    "cta_contact": "Contact Me",
+    "cta_resume": "Download CV"
+  },
+  "about": {
+    "heading": "About Me",
+    "summary": "Experienced Backend Developer with 5+ years of expertise designing, developing, and deploying high-performance software solutions. Currently at EPAM Systems, delivering scalable enterprise-grade applications for global clients across industries including Life Sciences and Healthcare. Passionate about clean architecture, cloud-native systems, and leveraging AI to build smarter software."
+  },
+  "experience": {
+    "heading": "Experience",
+    "present": "Present",
+    "epam": {
+      "role": "Software Engineer",
+      "bullet_1": "Life Sciences: Salesforce integration connecting internal services to enable end-to-end order management for cancer detection blood tests (Java, Spring Boot, gRPC, Kafka, AWS).",
+      "bullet_2": "Oracle Health: Backend Engineer building the Patients Portal API using Java (Micronaut) and Oracle Cloud Infrastructure.",
+      "bullet_3": "Participating in API development for the Patients Portal platform.",
+      "bullet_4": "Implementing integrations with OCI AI services."
+    },
+    "mercadolibre": {
+      "role": "Software Engineer",
+      "bullet_1": "Places team: delivered technical solutions for connecting to the Mercado Libre logistics network (delivery and pickup points).",
+      "bullet_2": "Designed and developed high-performance, scalable backend systems using Java, Spring Boot, and Hibernate.",
+      "bullet_3": "Implemented RESTful APIs for data access and manipulation across logistics services.",
+      "bullet_4": "Collaborated with cross-functional teams using Agile methodologies and JIRA.",
+      "bullet_5": "Developed synchronous and asynchronous logistic solutions."
+    },
+    "ejercito": {
+      "role": "Army NCO — Counterintelligence",
+      "bullet_1": "Conducted investigations into potential threats to military security including espionage and sabotage.",
+      "bullet_2": "Developed and maintained relationships with intelligence sources and informants.",
+      "bullet_3": "Performed security screenings of personnel with access to sensitive information and facilities.",
+      "bullet_4": "Provided risk assessments and threat mitigation advisory to military commanders."
+    }
+  },
+  "education": {
+    "heading": "Education",
+    "masters": {
+      "degree": "Master's in Software Architecture"
+    },
+    "bachelors": {
+      "degree": "Bachelor's in Software Engineering"
+    }
+  },
+  "skills": {
+    "heading": "Skills",
+    "category_backend": "Backend",
+    "category_cloud": "Cloud",
+    "category_data": "Data & Messaging",
+    "category_tools": "Tools",
+    "category_practices": "Practices"
+  },
+  "certifications": {
+    "heading": "Certifications",
+    "aws_ai": "AWS Certified AI Practitioner",
+    "aws_dev": "AWS Certified Developer Associate",
+    "google_genai": "Generative AI Leader",
+    "oci_foundations": "OCI Foundations Associate",
+    "oci_data": "OCI Data Foundations Associate",
+    "oci_ai": "OCI AI Foundations Associate",
+    "django": "Django for Everybody Specialization",
+    "java_android": "Java for Android",
+    "python": "Python For Everyone Specialization",
+    "ml": "Machine Learning for All"
+  },
+  "projects": {
+    "heading": "Projects",
+    "cancerguard": {
+      "name": "CancerGuard",
+      "description": "Salesforce integration connecting internal services to enable end-to-end order management for cancer diagnostic blood tests, from collection points to company laboratories."
+    },
+    "sellers_comm": {
+      "name": "Sellers Communications",
+      "description": "Application informing users of cross-docking and drop-off logistics about situations at shipping points where Mercado Libre sellers send their products."
+    },
+    "gmv_api": {
+      "name": "GMV API — Antifraud",
+      "description": "Alerting transportation teams when a facility exceeded its money threshold to schedule package collection and prevent loss of high-value products."
+    },
+    "schedule_events": {
+      "name": "Schedule Events API",
+      "description": "Enabled shipping point operators to schedule closures for vacations or personal reasons, integrated with Sellers Communications to notify sellers and reduce NPS impact."
+    },
+    "delivery_cart": {
+      "name": "Delivery Point Shopping Cart",
+      "description": "Enabled buyers to unify purchases from different sellers into one cart, received at a single delivery point with consolidated shipping costs."
+    }
+  },
+  "languages": {
+    "heading": "Languages",
+    "spanish": "Spanish",
+    "english": "English",
+    "portuguese": "Portuguese",
+    "italian": "Italian",
+    "level_native": "Native",
+    "level_advanced": "Advanced",
+    "level_intermediate": "Intermediate",
+    "level_elementary": "Elementary"
+  },
+  "contact": {
+    "heading": "Get In Touch",
+    "subheading": "I'm currently open to new opportunities. Feel free to reach out!",
+    "email_label": "Email",
+    "phone_label": "Phone",
+    "location_label": "Location",
+    "linkedin_label": "LinkedIn",
+    "github_label": "GitHub"
+  },
+  "footer": {
+    "built_with": "Built with React + Vite",
+    "rights": "All rights reserved."
+  }
+}
