@@ -93,31 +93,31 @@ export function getPortfolioData(): PortfolioData {
         id: 'cancerguard',
         nameKey: 'projects.cancerguard.name',
         descriptionKey: 'projects.cancerguard.description',
-        technologies: ['Java', 'Spring Boot', 'Salesforce', 'gRPC', 'Kafka', 'AWS'],
+        technologies: ['Java', 'Spring Boot', 'Salesforce', 'gRPC', 'Kafka', 'AWS', 'DataDog', 'Confluent'],
       },
       {
         id: 'sellers-comm',
         nameKey: 'projects.sellers_comm.name',
         descriptionKey: 'projects.sellers_comm.description',
-        technologies: ['Java', 'Spring Boot', 'REST'],
+        technologies: ['Java', 'Spring Boot', 'REST', 'Kibana', 'Fury', 'BigQueue', 'BigQuery', 'New Relic'],
       },
       {
         id: 'gmv-api',
         nameKey: 'projects.gmv_api.name',
         descriptionKey: 'projects.gmv_api.description',
-        technologies: ['Java', 'Spring Boot', 'REST'],
+        technologies: ['Java', 'Spring Boot', 'REST', 'Fury', 'BigQueue', 'BigQuery', 'Kibana', 'New Relic'],
       },
       {
         id: 'schedule-events',
         nameKey: 'projects.schedule_events.name',
         descriptionKey: 'projects.schedule_events.description',
-        technologies: ['Java', 'Spring Boot', 'REST'],
+        technologies: ['Java', 'Spring Boot', 'REST', 'Kibana', 'Fury', 'BigQueue', 'BigQuery', 'New Relic'],
       },
       {
         id: 'delivery-cart',
         nameKey: 'projects.delivery_cart.name',
         descriptionKey: 'projects.delivery_cart.description',
-        technologies: ['Java', 'Spring Boot', 'REST'],
+        technologies: ['Java', 'Spring Boot', 'REST', 'Kibana', 'Fury', 'BigQueue', 'BigQuery', 'New Relic'],
       },
     ],
 
@@ -128,7 +128,7 @@ export function getPortfolioData(): PortfolioData {
       },
       {
         categoryKey: 'skills.category_cloud',
-        skills: ['AWS', 'OCI', 'GCP'],
+        skills: ['AWS', 'OCI', 'GCP', 'Confluent Cloud', 'DataDog', 'New Relic', 'Kibana'],
       },
       {
         categoryKey: 'skills.category_data',
@@ -136,11 +136,11 @@ export function getPortfolioData(): PortfolioData {
       },
       {
         categoryKey: 'skills.category_tools',
-        skills: ['Salesforce', 'Docker', 'Git', 'JIRA', 'Linux'],
+        skills: ['Salesforce', 'Docker', 'Git', 'JIRA', 'Linux', 'Terraform'],
       },
       {
         categoryKey: 'skills.category_practices',
-        skills: ['Prompt Engineering', 'Agile', 'Problem Solving', 'System Design'],
+        skills: ['Prompt Engineering', 'Agile', 'Problem Solving', 'System Design', 'Agentic Software Engineering'],
       },
     ],
 
