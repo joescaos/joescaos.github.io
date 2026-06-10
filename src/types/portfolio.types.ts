@@ -47,7 +47,6 @@ export interface Language {
 
 export interface ContactInfo {
   email: string
-  phone: string
   location: string
   linkedinUrl: string
   githubUsername: string

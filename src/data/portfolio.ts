@@ -4,7 +4,6 @@ export function getPortfolioData(): PortfolioData {
   return {
     contact: {
       email: 'jxexcxo@gmail.com',
-      phone: '+57 323 586 5697',
       location: 'Colombia',
       linkedinUrl: 'https://www.linkedin.com/in/johan-esteban-ca%C3%B1as-ossa-51ba87135',
       githubUsername: 'joescaos',

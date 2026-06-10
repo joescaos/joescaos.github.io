@@ -6,7 +6,9 @@
     "skills": "Skills",
     "certifications": "Certifications",
     "projects": "Projects",
-    "contact": "Contact"
+    "contact": "Contact",
+    "blog": "Blog",
+    "back_portfolio": "Portfolio"
   },
   "hero": {
     "greeting": "Hello, I'm",
@@ -118,6 +120,13 @@
     "location_label": "Location",
     "linkedin_label": "LinkedIn",
     "github_label": "GitHub"
+  },
+  "blog": {
+    "heading": "Tech Notes",
+    "subheading": "Articles about software engineering, backend systems, and the Java ecosystem.",
+    "min_read": "min read",
+    "back": "Back to Blog",
+    "empty": "No posts yet. Check back soon!"
   },
   "footer": {
     "built_with": "Built with React + Vite",
